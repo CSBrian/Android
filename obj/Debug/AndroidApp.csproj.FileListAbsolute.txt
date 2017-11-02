@@ -1,0 +1,16 @@
+J:\XProject\AndroidApp\AndroidApp\bin\Debug\AndroidApp.dll
+J:\XProject\AndroidApp\AndroidApp\bin\Debug\AndroidApp.pdb
+J:\XProject\AndroidApp\AndroidApp\bin\Debug\AndroidApp.AndroidApp.apk
+J:\XProject\AndroidApp\AndroidApp\bin\Debug\AndroidApp.AndroidApp-Signed.apk
+J:\XProject\AndroidApp\AndroidApp\obj\Debug\AndroidApp.csprojResolveAssemblyReference.cache
+J:\XProject\AndroidApp\AndroidApp\obj\Debug\AndroidApp.csproj.CoreCompileInputs.cache
+J:\XProject\AndroidApp\AndroidApp\obj\Debug\AndroidApp.dll
+J:\XProject\AndroidApp\AndroidApp\obj\Debug\AndroidApp.pdb
+J:\XProject\AndroidApp\AndroidApp\obj\Debug\android\bin\AndroidApp.AndroidApp.apk
+J:\XProject\AndroidApp\AndroidApp\obj\Debug\res\layout\main.xml
+J:\XProject\AndroidApp\AndroidApp\obj\Debug\res\values\strings.xml
+J:\XProject\AndroidApp\AndroidApp\obj\Debug\R.cs.flag
+J:\XProject\AndroidApp\AndroidApp\obj\Debug\uploadflags.txt
+J:\XProject\AndroidApp\AndroidApp\bin\Debug\AndroidApp.dll.mdb
+J:\XProject\AndroidApp\AndroidApp\obj\Debug\android\assets\AndroidApp.dll.mdb
+J:\XProject\AndroidApp\AndroidApp\obj\Debug\res\layout\home.xml
